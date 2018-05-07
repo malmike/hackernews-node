@@ -1,0 +1,5 @@
+service: hackernews-node
+stage: dev
+datamodel: datamodel.graphql
+secret: mysecret123
+cluster: public-crystalshriek-883/prisma-eu1
